@@ -11,7 +11,7 @@ tools/flag.txt
 /pretrained
 /pretrained_v2
 /uvr5_weights
-hubert_base.pt
+
 rmvpe.onnx
 rmvpe.pt
 
